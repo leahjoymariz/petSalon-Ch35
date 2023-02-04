@@ -31,21 +31,7 @@ pets:[
         gender:"Female",
         breed:"Chihuahua",
         service:"Nail Trimming",
-    },
-    {
-        name:"Charlie",
-        age:"10",
-        gender: "Male",
-        breed:"German Shepherd",
-        service:"Bath",
-    },
-    {
-        name:"Copper",
-        age:"9",
-        gender:"Male",
-        breed:"Bulldog",
-        service:"Nail Trimming",
-
+   
     }
 
 ]
@@ -62,8 +48,6 @@ console.log(petSalon.pets.lenght);
 console.log(petSalon.pets[0].Scooby);
 console.log(petSalon.pets[1].Bella);
 console.log(petSalon.pets[2].Luna);
-console.log(petSalon.pets[3].Charlie);
-console.log(petSalon.pets[4].Cooper);
 
 
 
